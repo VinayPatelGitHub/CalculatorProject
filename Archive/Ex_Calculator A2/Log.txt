@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+To do:
+use a lib maybe?
+'--'
+use the last entered number as it is
+
+
+Tests:
+(5+(9+61)+45)4(6+6)4
+5+5+5(5+5*(5+7))
+
+5--5
+
+Done:
+
+
+Thoughts:
+22.08.20 - so ints can be negative so bascially need to check if a negative before a number to save the number as a negative 
+so now instead of having two list i only need one, one list of strings
